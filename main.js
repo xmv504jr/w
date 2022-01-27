@@ -73,11 +73,6 @@ console.log(color('\n\n\n Big Thanks To\n\n','orange'), color(`Sofys`,'purple'))
 exec(`cd /sdcard/download && play *mp3`)
 }
    
-   helga.on('chat-update', async (mek) => {
-        require('./helga.js')(helga, mek)
-        ownerNumber = ["6282138919347@s.whatsapp.net","6282138919347@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "6282138919347@s.whatsapp.net"
-       otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
     
     //SERAH LU MAU GANTI KYK MANA
