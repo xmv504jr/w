@@ -1,7 +1,7 @@
 {
-  "name": "Helga",
+  "name": "Sofys",
   "version": "0.0.1",
-  "description": "ZukaChan",
+  "description": "SofysChan",
   "main": "node main",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Helga",
+  "author": "Sofys",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
